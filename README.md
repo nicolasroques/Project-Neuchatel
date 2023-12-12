@@ -7,6 +7,7 @@
 | F1-score         | 0.4640              | 0.3029 | 0.3033   | 0.4074         |
 | Accuracy         | 0.4667              | 0.3198   | 0.3063 | 0.4177         |
 
+![My Image](project-illustration.png)
 
 |                  | Logistic regression with data cleaning | Word embedding with SVC | Keras Sequential | CamemBERT |
 |------------------|---------------------|-----|---------------|----------------|
