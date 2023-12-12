@@ -8,10 +8,6 @@
 | Accuracy         | 0.4667              | 0.3198   | 0.3063 | 0.4177         |
 
 
-![alt text](http://url/to/img.png]()
-![alt text]([http://url/to/img.png](https://www.rsipvision.com/wp-content/uploads/2018/01/Robot-reading-a-text-on-digital-tablet.jpg))
-
-
 |                  | Logistic regression with data cleaning | Word embedding with SVC | Keras Sequential | CamemBERT |
 |------------------|---------------------|-----|---------------|----------------|
 | Precision        | 0.4418              | 0.5038 | 0.5280   | 0.6168 |
