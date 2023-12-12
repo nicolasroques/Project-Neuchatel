@@ -1,6 +1,6 @@
 # Detecting the level difficulty of French texts
 ## Team Neuchâtel
-### Francisco Díaz and Nicolas Roques
+### by Francisco Díaz and Nicolas Roques
  
 
 ![My Image](project-illustration.png)
