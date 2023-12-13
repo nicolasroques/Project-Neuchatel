@@ -3,9 +3,6 @@
 ### by Francisco Díaz and Nicolas Roques
  
 
-![My Image](project-illustration.png)
-
-
 |                  | Logistic regression | kNN | Decision Tree | Random Forests |
 |------------------|---------------------|-----|---------------|----------------|
 | Precision        | 0.4645              | 0.4021 | 0.3066   | 0.4303         |
