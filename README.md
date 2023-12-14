@@ -47,9 +47,6 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 - Conducted hyperparameter tuning with GridSearchCV.
 - Evaluated the models and selected the best-performing kernel.
 
-7️⃣ **Keras Sequential**
-- Created a neural network model using Keras, focusing on sequential layers.
-
 8️⃣ **CamemBERT**
 - Used the CamemBERT model, a language model specifically trained on French language, fine-tuned on the training dataset
 
@@ -64,10 +61,10 @@ Results
 | Accuracy         | 0.4667              | 0.3198   | 0.3063 | 0.4177         |
 
 
-|                  | Logistic regression with data cleaning | Word embedding with SVC | Keras Sequential | CamemBERT |
-|------------------|---------------------|-----|---------------|----------------|
-| Precision        | 0.4418              | 0.5038 | 0.5280   | 0.6168 |
-| Recall           | 0.4396              | 0.5054 | 0.5240   | 0.5917 |
-| F1-score         | 0.4360              | 0.5035 | 0.5099   | 0.5941 |
-| Accuracy         | 0.4385              | 0.5062 | 0.5208   | 0.5917 |
+|                  | Logistic regression with data cleaning | Word embedding with SVC  | CamemBERT |
+|------------------|---------------------|-----|-------------------------------|
+| Precision        | 0.4418              | 0.5038    | 0.6168 |
+| Recall           | 0.4396              | 0.5054    | 0.5917 |
+| F1-score         | 0.4360              | 0.5035    | 0.5941 |
+| Accuracy         | 0.4385              | 0.5062    | 0.5917 |
 
