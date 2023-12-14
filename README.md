@@ -11,7 +11,7 @@ The goal is to develop a model specifically for English speakers learning French
 
 All our code files contain models to classify the difficulty of French texts.
 
-Our code is organised in three files: the first file contains the four models Logistic regression, kNN, Decision Tree and Random Forests as well as Logistic regression with data cleaning and Word embedding with SVC. The second file is composed of the Keras model. The third files contains the CamemBERT model. We have presented them in the next section.
+Our code is organised in three files: the first file contains the four models Logistic regression, kNN, Decision Tree and Random Forests as well as Logistic regression with data cleaning and Word embedding with SVC. The second file contains the CamemBERT model. We have presented them in the next section.
 
 In each file of our project, we followed a structured process. First, we loaded the dataset, which is used for both training and testing our models. Then, we imported the necessary packages to ensure we had all the essential tools. The third step involved preparing the data for classification, a key phase for accuracy in our models.
 
@@ -47,7 +47,7 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 - Conducted hyperparameter tuning with GridSearchCV.
 - Evaluated the models and selected the best-performing kernel.
 
-8️⃣ **CamemBERT**
+7️⃣ **CamemBERT**
 - Used the CamemBERT model, a language model specifically trained on French language, fine-tuned on the training dataset
 
 # Presentation of Streamlit
