@@ -60,11 +60,16 @@ Results
 | F1-score         | 0.4640              | 0.3029 | 0.3033   | 0.4074         |
 | Accuracy         | 0.4667              | 0.3198   | 0.3063 | 0.4177         |
 
+Precision: 0.4739
+Recall: 0.4752
+F1 Score: 0.4709
+Accuracy score: 
 
-|                  | Logistic regression with data cleaning | Word embedding with SVC  | CamemBERT |
-|------------------|---------------------|-----|-------------------------------|
-| Precision        | 0.4418              | 0.5038    | 0.6168 |
-| Recall           | 0.4396              | 0.5054    | 0.5917 |
-| F1-score         | 0.4360              | 0.5035    | 0.5941 |
-| Accuracy         | 0.4385              | 0.5062    | 0.5917 |
+
+|                  | Logistic regression with data cleaning |Ridge regression  | Word embedding with SVC  | CamemBERT |
+|------------------|---------------------|-----|---------|------------------------------|
+| Precision        | 0.4418              |0.4739         | 0.5038  |  0.6168|
+| Recall           | 0.4396              |0.4752         | 0.5054  | 0.5917 |
+| F1-score         | 0.4360              |0.4709         | 0.5035  | 0.5941 |
+| Accuracy         | 0.4385              |0.4740         | 0.5062  | 0.5917 |
 
