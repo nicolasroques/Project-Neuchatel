@@ -2,7 +2,7 @@
 ## 🏙️ Team Neuchâtel
 ### 🙋‍♂️ by Francisco Díaz and Nicolas Roques
 
-Link to video:
+Link to our video:
 
 # 💡 About
 The goal is to develop a model specifically for English speakers learning French. The purpose of this model is to assess the difficulty level of French texts, categorizing them according to the Common European Framework of Reference for Languages (CEFR) levels, ranging from A1 (beginner) to C2 (advanced). This tool would be useful in a recommendation system that suggests French texts, such as news articles, aligned with the learner's current proficiency level. For instance, if a user is at an A1 level in French, presenting them with a B2 level text would be overwhelming. The ideal text for language learning should predominantly contain familiar words, with just a few new or challenging terms to facilitate learning and skill improvement.
