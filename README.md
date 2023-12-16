@@ -78,8 +78,8 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 
 5️⃣ **Interactive Filters and Sorting**: Allows users to filter and sort text based on difficulty level and other criteria.
 
-6️⃣ Data Visualization: Offers visual charts to display text analysis results.
+6️⃣ **Data Visualization**: Offers visual charts to display text analysis results.
 
-7️⃣ Export Functionality: Enables exporting of analyzed data for further use.
+7️⃣ **Export Functionality**: Enables exporting of analyzed data for further use.
 
 
