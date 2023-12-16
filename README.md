@@ -1,6 +1,6 @@
-# Detecting the level difficulty of French texts
-## Team Neuchâtel
-### by Francisco Díaz and Nicolas Roques
+# 📜 Detecting the level difficulty of French texts
+## 🏙️ Team Neuchâtel
+### 🙋‍♂️ by Francisco Díaz and Nicolas Roques
 
 Link to video:
 
@@ -50,9 +50,8 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 7️⃣ **CamemBERT**
 - Used the CamemBERT model, a language model specifically trained on French language, fine-tuned on the training dataset
 
-# Presentation of Streamlit
 
-Results
+# Our Results
 |                  | Logistic regression | kNN | Decision Tree | Random Forests |
 |------------------|---------------------|-----|---------------|----------------|
 | Precision        | 0.4645              | 0.4021 | 0.3066   | 0.4303         |
@@ -66,4 +65,6 @@ Results
 | Recall           | 0.4396              |0.4752         | 0.5054  | 0.5875 |
 | F1-score         | 0.4360              |0.4709         | 0.5035  | 0.5941 |
 | Accuracy         | 0.4385              |0.4740         | 0.5062  | 0.5883 |
+
+# Presentation of our Streamlit application
 
