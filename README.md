@@ -1,4 +1,4 @@
-# 📜 Detecting the level difficulty of French texts
+# 📜 Detecting the difficulty level of French texts
 ## 🏙️ Team Neuchâtel
 ### 🙋‍♂️🙋 by Francisco Díaz and Nicolas Roques
 
