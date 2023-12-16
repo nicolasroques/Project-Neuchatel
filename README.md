@@ -68,15 +68,15 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 
 # 💻 Presentation of our Streamlit application
 
-1️⃣ Difficulty Prediction: Predicts the difficulty level of French sentences.
+1️⃣ **Difficulty Prediction**: Predicts the difficulty level of French sentences.
 
-2️⃣ Text Complexity Analysis: Calculates metrics like average word length and readability score.
+2️⃣ **Text Complexity Analysis**: Calculates metrics like average word length and readability score.
 
-3️⃣ Translation and Audio Pronunciation: Translates French to English and provides audio pronunciation of sentences.
+3️⃣ **Translation and Audio Pronunciation**: Translates French to English and provides audio pronunciation of sentences.
 
-4️⃣ Part-of-Speech Tagging: Identifies grammatical components of sentences.
+4️⃣ **Part-of-Speech Tagging**: Identifies grammatical components of sentences.
 
-5️⃣ Interactive Filters and Sorting: Allows users to filter and sort text based on difficulty level and other criteria.
+5️⃣ **Interactive Filters and Sorting**: Allows users to filter and sort text based on difficulty level and other criteria.
 
 6️⃣ Data Visualization: Offers visual charts to display text analysis results.
 
