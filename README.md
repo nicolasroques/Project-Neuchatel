@@ -4,10 +4,10 @@
 
 **Link to our video**:
 
-# 💡 About
+## 💡 About
 The goal is to develop a model specifically for English speakers learning French. The purpose of this model is to assess the difficulty level of French texts, categorizing them according to the Common European Framework of Reference for Languages (CEFR) levels, ranging from A1 (beginner) to C2 (advanced). This tool would be useful in a recommendation system that suggests French texts, such as news articles, aligned with the learner's current proficiency level. For instance, if a user is at an A1 level in French, presenting them with a B2 level text would be overwhelming. The ideal text for language learning should predominantly contain familiar words, with just a few new or challenging terms to facilitate learning and skill improvement.
 
-# 🗂️ Organisation of our code
+## 🗂️ Organisation of our code
 
 All our code files contain models to classify the difficulty of French texts.
 
@@ -17,7 +17,7 @@ In each file of our project, we followed a structured process. First, we loaded 
 
 After preparing the data, we defined the methods for training and testing the models we were working on. This step was for creating a foundation for our analysis. Then, we moved on to predictions on the test set we created with the full training data. Finally, we evaluated the models' performance, ensuring they accurately classified the difficulty level of French texts. If they did not, we would go back to training and testing with other approaches or parameters. 
 
-# </> Presentation of our code for each model
+## </> Presentation of our code for each model
 For each model, we evaluated the model using precision, recall, F1-score, and accuracy.
 
 1️⃣ **Logistic regression**
@@ -51,7 +51,7 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 - Used the CamemBERT model, a language model specifically trained on French language, fine-tuned on the training dataset
 
 
-# 📊 Our results
+## 📊 Our results
 |                  | Logistic regression | kNN | Decision Tree | Random Forests |
 |------------------|---------------------|-----|---------------|----------------|
 | Precision        | 0.4645              | 0.4021 | 0.3066   | 0.4303         |
@@ -66,7 +66,7 @@ For each model, we evaluated the model using precision, recall, F1-score, and ac
 | F1-score         | 0.4360              |0.4709         | 0.5035  | 0.5941 |
 | Accuracy         | 0.4385              |0.4740         | 0.5062  | 0.5883 |
 
-# 💻 Presentation of our Streamlit application
+## 💻 Presentation of our Streamlit application
 
 1️⃣ **Difficulty Prediction**: Predicts the difficulty level of French sentences.
 
